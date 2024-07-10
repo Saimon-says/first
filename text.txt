@@ -1,4 +1,4 @@
 first line
 second line
+something inserted
 third line
-forth line
